@@ -22,7 +22,7 @@ Este projeto é um CRUD simples (Create, Read, Update, Delete) para gerenciar it
 
    ```bash
    git clone https://github.com/kevinlly26/express-mongo-crud-base.git
-   cd my-crud-app
+   cd express-mongo-crud-base
 
 2. Instale as dependências:
 
